@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **Golang,React,Android**
+- 💬 Ask me about **Golang, React, Android**
 
 - 📫 How to reach me **mayank.gt15@gmail.com**
 
